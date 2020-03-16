@@ -19,3 +19,5 @@ for (let i = 0; i < numItemsToGenerate; i++) {
     renderGalleryItem(randomImageIndex);
 }
 
+//setInterval(renderGalleryItem, 2000);
+
