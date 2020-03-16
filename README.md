@@ -1,8 +1,7 @@
-# [RANDOM KITTY CAT PIC GENERATOR](https://sabinemm.github.io/random_kitty_generator/)
-
+# RANDOM KITTY CAT PIC GENERATOR
 ## Spread the love for kitties! 
 
-Spending hours scrolling through Instagram? Let your thumb rest and enjoy automatic random kitty pictures on autoplay!
+Spending hours scrolling through Instagram? Let your thumb rest and enjoy automatic random [kitty pictures](https://sabinemm.github.io/random_kitty_generator/) on autoplay!
 
 ![kitten](https://images.unsplash.com/photo-1445264875647-e3845f5388c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)
 
