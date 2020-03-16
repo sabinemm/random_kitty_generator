@@ -1,7 +1,7 @@
-const numItemsToGenerate = 4; //how many gallery items you want on the screen
+const numItemsToGenerate = 1; //how many gallery items you want on the screen
 const numImagesAvailable = 545; //how many total images are in the collection you are pulling from
-const imageWidth = 480; //your desired image width in pixels
-const imageHeight = 480; //desired image height in pixels
+const imageWidth = 500; //your desired image width in pixels
+const imageHeight = 500; //desired image height in pixels
 const collectionID = 1494900; //the collection ID from the original url
 function renderGalleryItem(randomNumber) {
     fetch(`https://source.unsplash.com/collection/${collectionID}/${imageWidth}x${imageHeight}/?sig=${randomNumber}`)
@@ -18,3 +18,4 @@ for (let i = 0; i < numItemsToGenerate; i++) {
     let randomImageIndex = Math.floor(Math.random() * numImagesAvailable);
     renderGalleryItem(randomImageIndex);
 }
+
