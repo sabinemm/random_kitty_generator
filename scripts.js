@@ -12,6 +12,7 @@ function renderGalleryItem(randomNumber) {
       <img class="gallery-image" src="${response.url}" alt="gallery image"/>
     `
             document.body.appendChild(galleryItem);
+            setTimeout("renderGalleryItem()", 2000);
         })
 }
 for (let i = 0; i < numItemsToGenerate; i++) {
@@ -19,5 +20,4 @@ for (let i = 0; i < numItemsToGenerate; i++) {
     renderGalleryItem(randomImageIndex);
 }
 
-//setInterval(renderGalleryItem, 2000);
 

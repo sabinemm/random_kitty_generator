@@ -1,4 +1,4 @@
-# RANDOM KITTY CAT PIC GENERATOR
+# [RANDOM KITTY CAT PIC GENERATOR](https://sabinemm.github.io/random_kitty_generator/)
 
 ## Spread the love for kitties! 
 
@@ -11,3 +11,5 @@ Spending hours scrolling through Instagram? Let your thumb rest and enjoy automa
 Unsplash [collection](https://unsplash.com/collections/1494900/cats-and-kittens)
 
 [tutorial link](https://medium.com/quick-code/how-to-quickly-generate-a-random-gallery-of-images-from-an-unsplash-collection-in-javascript-4ddb2a6a4faf)
+
+With this project I learned how to use setTimeout()
